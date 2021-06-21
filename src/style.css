@@ -24,8 +24,8 @@
   }
   
   .product-image {
-    width: 80%;
-    /* flex-basis: 700px; */
+     /*  width: 80%; */
+    flex-basis: 700px; 
   }
   
   .product-image,
